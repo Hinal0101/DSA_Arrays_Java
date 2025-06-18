@@ -1,2 +1,2 @@
-# DSA_Java
-Complete DSA in Java
+# DSA_Arrays_Java
+Arrays in Java
